@@ -4,7 +4,7 @@
 
 Android library that provides a better looking TextView to display details in a condensed way with an icon.
 
-## Add yo your project
+## Add to your project
 
 1. Add JitPack repo to your `build.gradle`: 
 
